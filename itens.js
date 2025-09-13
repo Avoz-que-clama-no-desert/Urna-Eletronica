@@ -15,7 +15,7 @@ var titulos = [
 
 ]
 
-var maq="Este é um Sorft de Urna Eleitrônica criado por Edu.App"
+var maq="Este é um Sorft de Urna Eleitrônica criado por Edu.App "
 var dev = 7957
 
 export {itens}
@@ -23,3 +23,4 @@ export {maq}
 export {titulos}
 
 export {dev}
+
