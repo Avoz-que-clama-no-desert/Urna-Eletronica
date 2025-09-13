@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+.chap{
+    cursor: pointer;
+    background-color: rgb(245, 202, 10);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 25px;
+    width: fit-content;
+}
+.button{
+    cursor: pointer;
+    display: none;
+    background-color: rgb(35, 14, 231);
+    color: aliceblue;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 25px;
+    width: fit-content;
+    margin-left: 40%;
+
+}
+.caixa{
+    display: none;
+    align-items: flex-start;
+    margin-left: 40%;
+}
+p{
+    margin-left: 25%;
+}
